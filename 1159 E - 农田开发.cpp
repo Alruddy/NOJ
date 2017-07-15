@@ -16,6 +16,7 @@ double calculate(double a,double b,double c)
     return sqrt(p*(p-a)*(p-b)*(p-c));
 }
 Point p[105];
+
 int main()
 {
     int n;
